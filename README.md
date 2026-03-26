@@ -12,5 +12,5 @@ Our analytics stack:
 Access to the Snowflake warehouse is managed on a per-user basis by the training team. 
 If you need access, open a request in the #ask-training Slack channel.
 
-## Using This Project
+## Using This Projectsfs
 
